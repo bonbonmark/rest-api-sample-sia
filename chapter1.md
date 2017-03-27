@@ -8,5 +8,16 @@
 6. List the outcome of the Game 
 7. Delete the Game
 
+# 業務流程
+
+# API總表
+
+| Resource | Method | Description | Link |
+| :--- | :--- | :--- | :--- |
+| Game | Post | 創建遊戲 | [Create Game](/game-api/chuang-jian-game.md) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 
 
